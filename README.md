@@ -4,6 +4,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?logo=firebase)](https://firebase.google.com/)
 [![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go)](https://golang.org/)
+[![Google ADK](https://img.shields.io/badge/Google_ADK-Agent_Framework-4285F4?logo=google)](https://ai.google.dev/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Platform-4285F4?logo=google-cloud)](https://cloud.google.com/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-1.5_Flash_|_Pro-34A853?logo=google)](https://ai.google.dev/)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)](https://vercel.com)
 
 Finpal is a modern personal finance assistant that combines cutting-edge AI technology with intuitive web interfaces to help you track, analyze, and manage your finances with ease. Built with a full-stack architecture featuring Next.js frontend and Go backend, powered by Google's advanced AI models.
@@ -173,27 +176,6 @@ gcloud run deploy finpal-backend --source . --region us-central1
 
 ---
 
-## 📁 Project Structure
-
-```
-finpal/
-├── finpal-frontend/          # Next.js frontend application
-│   ├── components/           # Reusable React components
-│   ├── pages/               # Next.js pages and API routes
-│   ├── styles/              # Tailwind CSS configurations
-│   ├── lib/                 # Utility functions and Firebase config
-│   └── public/              # Static assets
-├── backend/                 # Go backend server
-│   ├── handlers/            # HTTP request handlers
-│   ├── models/              # Data models
-│   ├── services/            # Business logic
-│   └── main.go              # Server entry point
-└── ai-agent/                # Google ADK AI agent configuration
-    └── agent-config/        # AI agent settings and tools
-```
-
----
-
 ## 🛠️ Development Workflow
 
 ### Running Full Stack Locally
@@ -276,4 +258,4 @@ For questions, issues, or contributions:
 
 ---
 
-*Built with ❤️ using Next.js, Go, and Google Cloud/AI*
+*Built with ❤️ using Next.js, Go, and Google AI*

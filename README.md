@@ -77,7 +77,7 @@ Navigate to http://localhost:3000 to see Finpal Frontend with Firebase Auth in a
 ## 🛠️ Getting Started (backend)
 
 ### Running the server
----
+
 #### Prerequisites
 - Go 1.23 or later
 

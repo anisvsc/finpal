@@ -1,0 +1,6 @@
+[submodule "finpal-backend"]
+	path = finpal-backend
+	url = https://github.com/anisvsc/finpal-backend
+[submodule "finpal-frontend"]
+	path = finpal-frontend
+	url = https://github.com/anisvsc/finpal-frontend

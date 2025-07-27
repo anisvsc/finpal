@@ -88,6 +88,7 @@ go mod tidy```
 ### Start the server
 ```bash
 FI_MCP_PORT=8080 go run .
+
 ```
 The server will start on http://localhost:8080.
 
